@@ -4,6 +4,11 @@ Welcome to the Quiz App! This interactive web application allows users to take q
 
 ## Technologies Used
 HTML
+
 CSS
+
 JavaScript 
+
 GitHub
+
+
